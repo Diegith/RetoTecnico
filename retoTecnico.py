@@ -3,6 +3,7 @@ import copy
 
 print('')
 print('RETO TÉCNICO CON PYTHON')
+print('Desarrollado por Diego Alejandro Albarracin Acero')
 
 
 npr = 5
@@ -82,7 +83,8 @@ def irNivel(preguntaNivel, respuestasNivel, niv):
                 pts = pts + 30                                
                 irNivel(preguntaNivel5, respuestasNivel5, 5)
             elif niv == 6:
-                print('JUEGO COMPLETADO - FELICIDADES')                    
+                print('JUEGO COMPLETADO - FELICIDADES\n')
+                print('Desarrollado por Diego Alejandro Albarracin Acero\n')                    
             else:
                 break            
             break
