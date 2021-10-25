@@ -3,7 +3,7 @@ import copy
 
 print('')
 print('RETO TÉCNICO CON PYTHON')
-print('')
+
 
 npr = 5
 nre = 4
