@@ -20,14 +20,14 @@ Nota: Cabe destacar que todos los arhivo contenedores de las preguntas & respues
 - Respuesta incorrecta 3
 - Respuesta correcta 
 
-El proyecto está diseñado en Python y para verse en consola
+El proyecto está diseñado en Python y para verse en consola.
 
 
-Las preguntas y respuestas están categorizadas en 5 niveles como se muestran en loa adjunto antes mencionados: Preguntas & respuestas - Categoría 1, 2, 3, 4, 5 
+Las preguntas y respuestas están categorizadas en 5 niveles como se muestran en los adjuntos antes mencionados: Preguntas & respuestas - Categoría 1, 2, 3, 4, 5.
 
-El contenido de cada adjunto corresponde a las preguntas y respuestas del juego que corresponda a cada NIVEL; para mayor 
-facilidad solo se deberá llegar a la opción ingresar pregunta 1 de cada NIVEL, y se finalmente copiar todo el contenido de cada adjunto según el NIVEL correspondiente
-o de ser posible ingresar uno a uno cada campo requerido.
+El contenido de cada adjunto corresponde a las preguntas y respuestas del juego que corresponda a cada NIVEL; para un buen uso del programa, solo se deberá llegar a la opción ingresar pregunta y respuestas de cada NIVEL, y en la opcion de pregunta 1, finalmente copiar todo el contenido de cada adjunto según el NIVEL correspondiente, como se muestra en el video explicativo.
+
+O de ser posible ingresar uno a uno cada campo requerido.
 
 El proyecto además tiene un video introductorio para su buen funcionamiento
 
