@@ -10,6 +10,13 @@ Este repositorio contiene los siguiente archivos:
 6. Preguntas & respuestas - Categoría 5.txt 
 6. Preguntas & respuestas - Categoría Todas las categorias.txt
 
+Nota: Cabe destacar que todos los arhivo contenedores de las preguntas & respuestas tiene la mismas lineas de texto plano, ademas la misma estrucutra para ingresar los datos:
+
+- Pregunta (n)
+- Respuesta incorrecta 1
+- Respuesta incorrecta 2
+- Respuesta incorrecta 3
+- Respuesta correcta 
 
 El proyecto está diseñado en Python y para verse en consola
 
