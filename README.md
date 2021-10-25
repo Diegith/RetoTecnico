@@ -1,4 +1,5 @@
-# RetoTecnico
+# Reto Técnico
+# CHALLENGE -  CONCURSO DE PREGUNTAS Y RESPUESTAS.
 
 Link video explicativo: https://drive.google.com/file/d/1-CDhoueNSWVB7B5v_eFcI6oayVCi5rkw/view?usp=sharing
 
@@ -29,6 +30,6 @@ El contenido de cada adjunto corresponde a las preguntas y respuestas del juego 
 
 O de ser posible ingresar uno a uno cada campo requerido.
 
-El proyecto además tiene un video introductorio para su buen funcionamiento
+NOTA: El proyecto tiene un video explicativo para su buen funcionamiento, ir al LINK.
 
 
