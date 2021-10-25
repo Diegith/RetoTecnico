@@ -1,5 +1,7 @@
 # RetoTecnico
 
+Link video explicativo: https://drive.google.com/file/d/1-CDhoueNSWVB7B5v_eFcI6oayVCi5rkw/view?usp=sharing
+
 Este repositorio contiene los siguiente archivos:
 
 1. retoTecnico.py - correr en cualquier IDE que soporte Python
