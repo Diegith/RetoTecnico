@@ -8,7 +8,7 @@ print('RETO TÉCNICO CON PYTHON')
 npr = 5
 nre = 4
 global pts
-pts = 5
+pts = 10
 #npr = int(input("Escribe el numero de preguntas: "))
 #nre = int(input("Escribe el numero de respuestas por pregunta: "))
 
@@ -70,16 +70,16 @@ def irNivel(preguntaNivel, respuestasNivel, niv):
             niv = niv + 1  
             print(f'\nNivel superado, tu acomulado de puntos es: {pts}\n')          
             if niv == 2:
-                pts = pts + 10
+                pts = pts + 15
                 irNivel(preguntaNivel2, respuestasNivel2, 2)
             elif niv == 3: 
-                pts = pts + 15               
+                pts = pts + 20               
                 irNivel(preguntaNivel3, respuestasNivel3, 3)
             elif niv == 4: 
-                pts = pts + 20              
+                pts = pts + 25              
                 irNivel(preguntaNivel4, respuestasNivel4, 4)
             elif niv == 5:
-                pts = pts + 25                                
+                pts = pts + 30                                
                 irNivel(preguntaNivel5, respuestasNivel5, 5)
             elif niv == 6:
                 print('JUEGO COMPLETADO - FELICIDADES')                    
